@@ -1,0 +1,9 @@
+#quoterotator {
+   line-height: 135%;
+}
+#quoteauthor {
+   display: block;
+   text-align: right;
+   font-weight: bold;
+   font-style: italic;
+}
