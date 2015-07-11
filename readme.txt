@@ -1,4 +1,4 @@
-=== Flexi Quote Rotator Plus ===
+=== Flexible Quote Rotator Plus ===
 Version 0.0.1
 Contributors: Steve Lescure
 Donate link: n/a
@@ -7,11 +7,9 @@ Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 0.0
 
-A plugin for displaying quotes or testimonials or other rotating snippets of content. This plugin builds on the work done by acurran, who created Flexible Quote Rotator.  Flexible Quote Rotator Plus is a re-write of this original work. It now supports multiple widgets and more widget and shortcode options. It also allows users to enter a category for each quote, and use this category field in widgets and shortcodes to select the quotes to be displayed.     
-
 == Description ==
 
-The *flexi quote rotator* plugin allows you to add quotations/testimonies to your site using a shortcode(s) or a widget(s). Includes an administration settings page and provides styling flexibility.  Provides the ability to add, edit, and delete quotes.  
+The *Flexible Quote Rotator Plus* plugin allows you to add quotations/testimonies to your site using a shortcode(s) or a widget(s). Includes an administration settings page and provides styling flexibility. Provides the ability to add, edit, and delete quotes.  
 
 
 == Change Log ==
