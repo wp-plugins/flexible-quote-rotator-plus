@@ -74,7 +74,7 @@ Maybe not. It is likely you will want to add some CSS to your site to get it to 
 
 It IS possible to change the look of each widget component (the quote area and title) without affecting the others on the  page/sidebar. Each title/quotearea created by a widget or short-code has a unique class associated with it. Therefore, it is possible to use CSS to get the affect you want. Here are a couple examples to get you started.
 
-To change the title area of a quote generated via a shortcode, add CSS like below. The 19031 bit, which is the Page-ID, concatenated with the number of the shortcode on the page, in this case the first, will be unique to your site – use Inspect Element in your browser to find it.
+To change the title area of a quote generated via a shortcode, add CSS like below. The 19031 bit, which is the Page-ID, concatenated with the number of the shortcode on the page, in this case the first, will be unique to your site.  Use Inspect Element in your browser to find it.
 
 h4.title19031 {
 color: purple !important;
