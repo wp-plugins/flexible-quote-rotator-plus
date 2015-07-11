@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Flexi Quote Rotator Plus
-Plugin URI: http:/www.stevelescure.net/wordpress-plugins/flexi-quote-rotator-plus/
-Description: Flexi quote rotator allows you to add quotations/testimonies to your site using a shortcode or as a widget. Flexible styling and settings options.
+Plugin URI: https://wordpress.org/plugins/flexible-quote-rotator-plus/
+Description: Flexible Quote Rotator Plus allows you to add quotations/testimonies to your site using a shortcode or as a widget.
 Version: 0.1.0
 Author:  Steve Lescure
 Author URI: http://www.stevelescure.net
