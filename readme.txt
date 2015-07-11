@@ -1,6 +1,6 @@
-=== Flexi Quote Rotator ===
+=== Flexi Quote Rotator Plus ===
 Version 0.0.1
-Contributors: Steve Lescure/acurran
+Contributors: Steve Lescure
 Donate link: n/a
 Tags: quotes, quotation, quote, quotations, testimony, testimonies, random quotes, random, rotating, quotation, plugin, shortcode, template, display
 Requires at least: 3.0
