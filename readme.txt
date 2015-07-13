@@ -88,7 +88,7 @@ color: purple !important;
 
 == Screenshots ==
 
-see examples:
+Click below to see examples:
 
 <a href="http://stevelescure.net/flexible-quote-rotator-plus">Click Here</a>
 
